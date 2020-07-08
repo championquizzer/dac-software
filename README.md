@@ -1,6 +1,4 @@
-# dac-software
-****
-***Development of a Data Acquisition and Control (DAC) software using LabVIEW***
+# Development of a Data Acquisition and Control (DAC) software using LabVIEW
 ****
 ***I)*** In the first experiment I have studied about the Laser Diode Drivers. I have studied the schematic of the LDD, including all the components, like the Power Card and the Control Card. I also did an extensive study on the working of Laser and it’s basic principles. 
 ****
@@ -9,7 +7,7 @@
 ****
 ***Project Report***
 
-![Read the full report here.](https://github.com/championquizzer/dac-software/blob/master/git-project-report.pdf)
+[Read the full report here.](https://github.com/championquizzer/dac-software/blob/master/git-project-report.pdf)
 ****
 ***Screenshots***
 
