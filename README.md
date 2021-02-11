@@ -1,9 +1,7 @@
 # Development of a Data Acquisition and Control (DAC) software using LabVIEW
-- In the first experiment I have studied about the Laser Diode Drivers. I have studied the schematic of the LDD, including all the components, like the Power Card and the Control Card. I also did an extensive study on the working of Laser and it’s principles. 
-- In the latter part of the project ,I have developed a DAC (Data Acquisition and Control) Software for the measurement of Temperature and Pressure from the respective sensors, i.e. thermocouple and pressure transmitter. The measurement of pressure and temperature presents a necessary condition for several industrial applications, mostly its precise regulation and/or maintaining it on a constant level means important challenge. The Type E thermocouples and diaphragm-type pressure sensors have eased the evolution of data acquisition systems used for temperature and pressure monitoring. The construction of such a system is presented in the project with temperature and pressure sensor, and the monitoring and control of the process is realized using LabVIEW. The reference values and the constants can be set through the panel of the virtual instrument and its effects on the control of the process can be visualised.
-> NOTE: This is a repository of my project at [Defence Research and Development Organisation (DRDO), New Delhi, India](https://drdo.gov.in/).
-****
-**Project Report**
+This is part of my work at [Defence Research and Development Organisation (DRDO), New Delhi, India](https://drdo.gov.in/) in the summer of 2019 as an intern.
+- I conducted a study on Laser Diode Drivers - schematic of the LDD, including all the components, like the Power Card and the Control Card and working of Laser and it’s principles. 
+- I developed a DAC (Data Acquisition and Control) Software for the measurement of Temperature and Pressure from the respective sensors, i.e. thermocouple and pressure transmitter. The measurement of pressure and temperature presents a necessary condition for several industrial applications, mostly its precise regulation and/or maintaining it on a constant level means important challenge. The Type E thermocouples and diaphragm-type pressure sensors have eased the evolution of data acquisition systems used for temperature and pressure monitoring. The construction of such a system is presented in the project with temperature and pressure sensor, and the monitoring and control of the process is realized using LabVIEW. The reference values and the constants can be set through the panel of the virtual instrument and its effects on the control of the process can be visualised.
 
-[Read the full report here.](https://github.com/championquizzer/dac-software/blob/master/dac-project-report.pdf)
-****
+Read the full report [here](https://github.com/championquizzer/dac-software/blob/master/dac-project-report.pdf).
+
