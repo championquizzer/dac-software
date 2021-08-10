@@ -3,5 +3,5 @@ This is part of our (Joydeep Sen Gupta, Riddhijit Chattopadhyay, Saraja Kadambar
 - We conducted a study on Laser Diode Drivers - schematic of the LDD, including all the components, like the Power Card and the Control Card and working of Laser and it’s principles. 
 - We developed a DAC (Data Acquisition and Control) Software for the measurement of Temperature and Pressure from the respective sensors, i.e. thermocouple and pressure transmitter. The measurement of pressure and temperature presents a necessary condition for several industrial applications, mostly its precise regulation and maintaining it on a constant level. The Type E thermocouples and diaphragm-type pressure sensors have eased the evolution of data acquisition systems used for temperature and pressure monitoring. The construction of such a system is presented in the project with temperature and pressure sensor, and the monitoring and control of the process is realized using LabVIEW. The reference values and the constants can be set through the panel of the virtual instrument and its effects on the control of the process can be visualised.
 
-Read the full report [here](../assets/docs/dac-laserdiode-project-report.pdf).
+Read the full report [here](./assets/docs/dac-laserdiode-project-report.pdf).
 
